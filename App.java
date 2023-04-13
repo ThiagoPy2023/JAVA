@@ -12,10 +12,12 @@ public class App {
         if (media >= 7) {
             if (media == 10) {
                 System.out.println("Parábens, aprovado com excelência");
-            } else {
+            } 
+            else {
                 System.out.println("Aprovado");
             }
-        } else {
+        } 
+        else {
             System.out.println("Reprovado");
         }
     }
